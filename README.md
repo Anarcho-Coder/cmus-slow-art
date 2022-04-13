@@ -1,5 +1,6 @@
 **About**
-This is an album art viewer that runs in terminal for [C\*Mus](https://cmus.github.io/). Using [imgcat](https://github.com/posva/catimg) to print the image, and inotify. Please enjoy
+
+This is an album art viewer that runs in terminal for [C\*Mus](https://cmus.github.io/). Using [catimg](https://github.com/posva/catimg) to print the image, and inotify. Please enjoy
 
 **Install Instructions**
 
@@ -27,5 +28,5 @@ Passing slow-art.sh an integer number will set pixels width of the printed image
 
 I hope you enjoy using my weekend project for cmus. Feel free to leave any issues you may have here but I doubt that this porject will be updated in the future.
 
-Solidarty Forever,\n
+Solidarty Forever,\
 SlowQueer
