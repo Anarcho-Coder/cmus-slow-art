@@ -26,7 +26,7 @@ Once you have installed slow-art, updated your PATH, and connected cmus to slow-
 
 Passing slow-art.sh an integer number will set pixels width of the printed image. This defaults to 100 if left unset. The wider the picture the higher the resolution.
 
-I hope you enjoy using my weekend project for cmus. Feel free to leave any issues you may have here but I doubt that this porject will be updated in the future.
+I hope you enjoy using my weekend project for cmus. Feel free to leave any issues you may have here but I doubt that this project will be updated in the future.
 
 Solidarty Forever,\
 SlowQueer
