@@ -13,7 +13,7 @@ cp defaultcover1.jpg cover.jpg
 touch album.txt
 touch artist.txt
 
-mkdir scripts && cd scrpts
+mkdir scripts && cd scripts
 
 cp $currentDirectory/slow-monitor.sh slow-monitor.sh
 cp $currentDirectory/slow-art.sh slow-art.sh
